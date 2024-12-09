@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Developer Portfolio",
+		title: "Personal Portfolio",
 		name: "Argel Hernandez Amaya",
 		email: "argel6767@gmail.com",
 		logo: "../logo.png",
