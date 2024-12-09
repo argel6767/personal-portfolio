@@ -20,7 +20,7 @@ const INFO = {
 	about: {
 		title: "A Little Bit About Me",
 		description:
-		"I am proficient in Java, Python, HTML, CSS and Javascript. I have also created projects with both frontend and backend frameworks/libraries such as Spring Boot and React." +
+		"I am currently a student at Western New England University. I am studying computer science and will graduate in Fall 2025. I am proficient in Java, Python, HTML, CSS and Javascript. I have also created projects with both frontend and backend frameworks/libraries such as Spring Boot and React." +
 			" I love to workout and spend time with my friends when I am not programming."
 	},
 
