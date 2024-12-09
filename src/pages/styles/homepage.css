@@ -93,6 +93,11 @@
 	padding-top: 30px;
 }
 
+.about-education {
+	padding-top: 70px;
+	padding-right: 40px;
+}
+
 @media (max-width: 1024px) {
 	.homepage-first-area {
 		flex-direction: column;

@@ -10,6 +10,7 @@ import INFO from "../data/user";
 import SEO from "../data/seo";
 
 import "./styles/about.css";
+import {Schooling} from "../components/Schooling";
 
 const About = () => {
 	useEffect(() => {
@@ -54,7 +55,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="about.jpeg"
 											alt="about"
 											className="about-image"
 										/>
@@ -62,16 +63,19 @@ const About = () => {
 								</div>
 
 								<div className="about-socials">
-									<Socials />
+									<Socials/>
 								</div>
 							</div>
 						</div>
 						<div className="about-socials-mobile">
-							<Socials />
+							<Socials/>
+						</div>
+						<div className="about-education">
+							<Schooling/>
 						</div>
 					</div>
 					<div className="page-footer">
-						<Footer />
+						<Footer/>
 					</div>
 				</div>
 			</div>
