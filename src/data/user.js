@@ -69,7 +69,7 @@ const INFO = {
 				"Shopify Order Sheet Updater is a single page React web application built for Blue Tactical. SOSU leverages ExcelJS and Shopify's GraphQL API to streamline tracking and logging of orders, enhancing order management efficiency.",
 			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/argel6767/shopify-order-sheet-updater",
 		},
 	],
 };
