@@ -27,46 +27,47 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Tailor.ai",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Tailor your resume with the power of AI! Tailor.ai is a full stack web application that leverages AI to tailor a user's resume to any specific job requirements, aiding in their job search.",
+			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png","https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/argel6767/tailor.ai",
 		},
 
 		{
-			title: "Project 2",
+			title: "Customer Order Parser",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Customer Order Parser is a desktop application built for Blue Tactical. COP leverages Apache POI to clean and format raw product data into readable and formatted Excel Sheets, and also leverages JavaFX for a user-friendly UI.",
+			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png"],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/argel6767/customer-order-parser",
 		},
 
 		{
-			title: "Project 3",
+			title: "PeakPerformance",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"PeakPerformance: Redefine Your Boundaries, Elevate Your Game. PeakPerformance is a full stack web application that will allows users to track and view their fitness goals and journey. PeakPerformance is currently under-development.",
+			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/argel6767/peakperformance",
 		},
 
 		{
-			title: "Project 4",
+			title: "SWE-Bot",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"SWE-Bot is a single page React web application powered by OpenAI's Chat Completions API. SWE-Bot explains and teaches computer science and software engineering topics to users.",
+			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/argel6767/SWE-ChatBot",
 		},
 
 		{
-			title: "Project 5",
+			title: "Shopify Order Sheet Updater",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Shopify Order Sheet Updater is a single page React web application built for Blue Tactical. SOSU leverages ExcelJS and Shopify's GraphQL API to streamline tracking and logging of orders, enhancing order management efficiency.",
+			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
 			linkText: "View Project",
 			link: "https://github.com",
 		},

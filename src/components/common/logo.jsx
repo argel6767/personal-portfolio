@@ -11,6 +11,7 @@ const Logo = (props) => {
 	if (link === undefined) {
 		link = true;
 	}
+	
 
 	const imageElement = (
 		<img src={INFO.main.logo} alt="logo" className="logo" width={width} />
