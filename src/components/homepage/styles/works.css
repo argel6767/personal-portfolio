@@ -23,6 +23,7 @@
 	font-weight: 700;
 	margin-top: -3px;
 	color: var(--secondary-color);
+	padding-bottom: 10px;
 }
 
 .work-subtitle {
@@ -39,4 +40,16 @@
 	padding-top: 20px;
 	text-align: right;
 	color: var(--tertiary-color);
+}
+
+@media (max-width: 624px) {
+	.work-duration {
+		padding-left: 30px;
+		text-align: center;
+	}
+
+	.works-width {
+		width: 10%;
+		background: #27272a;
+	}
 }

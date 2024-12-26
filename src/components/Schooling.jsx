@@ -20,10 +20,10 @@ export const Schooling = () => {
 
                         <div className="work">
                             <div className="work-title">University of Massachusetts - Amherst</div>
-                            <div className="work-subtitle">
-                                Education
-                            </div>
-                            <div className="work-duration">2020 - 2023</div>
+                                <div className="work-subtitle">
+                                    Education
+                                </div>
+                                <div className="work-duration">2020 - 2023</div>
                         </div>
                     </div>
                 }

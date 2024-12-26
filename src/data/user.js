@@ -30,7 +30,7 @@ const INFO = {
 			title: "Tailor.ai",
 			description:
 				"Tailor your resume with the power of AI! Tailor.ai is a full stack web application that leverages AI to tailor a user's resume to any specific job requirements, aiding in their job search.",
-			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png","https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
+			logo: ["https://www.vectorlogo.zone/logos/springio/springio-icon.svg","https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg", "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"],
 			linkText: "View Project",
 			link: "https://github.com/argel6767/tailor.ai",
 		},
@@ -48,8 +48,9 @@ const INFO = {
 			title: "PeakPerformance",
 			description:
 				"PeakPerformance: Redefine Your Boundaries, Elevate Your Game. PeakPerformance is a full stack web application that will allows users to track and view their fitness goals and journey. PeakPerformance is currently under-development.",
-			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
-			"https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
+			logo: ["https://www.vectorlogo.zone/logos/springio/springio-icon.svg",
+			"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+			"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"],
 			linkText: "View Project",
 			link: "https://github.com/argel6767/peakperformance",
 		},
@@ -58,16 +59,16 @@ const INFO = {
 			title: "SWE-Bot",
 			description:
 				"SWE-Bot is a single page React web application powered by OpenAI's Chat Completions API. SWE-Bot explains and teaches computer science and software engineering topics to users.",
-			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
+			logo: ["https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"],
 			linkText: "View Project",
-			link: "https://github.com/argel6767/SWE-ChatBot",
+			link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
 		},
 
 		{
 			title: "Shopify Order Sheet Updater",
 			description:
 				"Shopify Order Sheet Updater is a single page React web application built for Blue Tactical. SOSU leverages ExcelJS and Shopify's GraphQL API to streamline tracking and logging of orders, enhancing order management efficiency.",
-			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"],
+			logo: ["https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"],
 			linkText: "View Project",
 			link: "https://github.com/argel6767/shopify-order-sheet-updater",
 		},

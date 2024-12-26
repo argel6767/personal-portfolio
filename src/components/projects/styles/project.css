@@ -29,10 +29,9 @@
 .project-logo {
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-start;
 	gap: 10px;
-	width: 50px;
-	padding-left: 20px;
+	width: 20%;
 }
 
 .project-logo img {
@@ -71,7 +70,8 @@
 }
 
 @media (max-width: 600px) {
-	.project {
-		height: 300px;
+
+	.project-description {
+		overflow-y: auto;
 	}
 }
