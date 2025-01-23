@@ -45,9 +45,21 @@ const INFO = {
 		},
 
 		{
+			title: "INeedHousing",
+			description:
+				"INeedHousing will be stack web app that aggregates housing information from multiple third-party services to aid interns find housing in their city of employment. An MVP is soon to completion.",
+				logo: [
+					"https://www.vectorlogo.zone/logos/springio/springio-icon.svg",
+					"https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg",
+					"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+				],
+				link:"https://github.com/argel6767/i-need-housing"
+		},
+
+		{
 			title: "PeakPerformance",
 			description:
-				"PeakPerformance: Redefine Your Boundaries, Elevate Your Game. PeakPerformance is a full stack web application that will allows users to track and view their fitness goals and journey. PeakPerformance is currently under-development.",
+				"PeakPerformance: Redefine Your Boundaries, Elevate Your Game. PeakPerformance will be a full stack web application that will allows users to track and view their fitness goals and journey. PeakPerformance is currently under-development.",
 			logo: ["https://www.vectorlogo.zone/logos/springio/springio-icon.svg",
 			"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
 			"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"],
