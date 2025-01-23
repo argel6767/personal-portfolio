@@ -47,19 +47,18 @@ const Contact = () => {
 							Thank you for your interest in getting in touch with
 							me. I welcome your feedback, questions, and
 							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
-							<a href={`mailto:${INFO.main.email}`}>
-								{INFO.main.email}
+							comment, please feel free to email me directly to my
+							&nbsp;{""}
+							<a href={`mailto:${INFO.main.email}`}>email
 							</a>
 							, or if you prefer to connect on
-							social media, you can find me on{" "}
+							social media, you can find me on &nbsp;{""}
 							<a
 								href={INFO.socials.linkedin}
 								target="_blank"
 								rel="noreferrer"
 							>
-								{INFO.socials.linkedin}
+								LinkedIn
 							</a>
 							. Thanks again for your interest, and I look forward
 							to hearing from you!
