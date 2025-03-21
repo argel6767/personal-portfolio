@@ -45,7 +45,7 @@ const INFO = {
 				"https://www.vectorlogo.zone/logos/docker/docker-tile.svg"
 			],
 			linkText: "View Project",
-			link: "https://github.com/argel6767/shopify-order-sheet-updater",
+			link: "https://gitlab.com/LibreFoodPantry/client-solutions/bear-necessities-market",
 		},
 
 		{
