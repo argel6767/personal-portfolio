@@ -43,10 +43,9 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the time in college to
-							upskill on my own time and to improve as a developer.
+						I've worked on a variety of projects throughout my time in college to improve as a developer and because of my passion for development.
 							If you're interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
+							please feel free to check out their GitHub repositories and suggest
 							any improvements or enhancements you might have in
 							mind. Collaborating with others is a great way to
 							learn and grow, and I'm always open to new ideas and

@@ -11,6 +11,7 @@ import SEO from "../data/seo";
 
 import "./styles/about.css";
 import {Schooling} from "../components/Schooling";
+import GitHubReadMe from "../components/about/github";
 
 const About = () => {
 	useEffect(() => {
@@ -48,6 +49,9 @@ const About = () => {
 
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
+								</div>
+								<div>
+									<GitHubReadMe/>
 								</div>
 							</div>
 
