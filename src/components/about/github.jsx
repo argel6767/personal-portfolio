@@ -4,13 +4,13 @@ const GitHubProfile = () => {
   return (
     <div className="github-profile-container">
 
-      <ul className="mt-6 space-y-2">
+      <ul style={{padding: "10px"}}>
         <li>📄 Know about my experiences: <a href="https://github.com/argel6767/resume/blob/main/Argel_Hernandez_Amaya_Resume.pdf" target="_blank" rel="noopener noreferrer">My Resume</a></li>
       </ul>
 
-      <div className="mt-8">
+      <div style={{paddingTop: "10px"}}>
         <h3>Languages and Tools:</h3>
-        <div className="flex flex-wrap gap-4 mt-2">
+        <div style={{paddingTop: "10px", paddingBottom: "20px"}}>
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
           </a>
@@ -53,7 +53,7 @@ const GitHubProfile = () => {
         </div>
       </div>
 
-      <div className="mt-8 text-center">
+      <div style={{marginTop: "10px", textAlign:"center", marginBottom:"10px"}}>
         <img 
           className="mx-auto"
           src="https://github-readme-stats.vercel.app/api/top-langs?username=argel6767&show_icons=true&locale=en&layout=compact" 
@@ -61,8 +61,8 @@ const GitHubProfile = () => {
         />
       </div>
 
-      <div className="mt-4 text-center text-xs text-gray-500">
-        ⚡️ by <a target="_blank" href="https://git.io/readme-stats" rel="noopener noreferrer">git.io/readme-stats</a>
+      <div style={{color:"gray", textAlign:"center"}}>
+        ⚡️ by <a style={{color:"gray"}} target="_blank" href="https://git.io/readme-stats" rel="noopener noreferrer">git.io/readme-stats</a>
       </div>
     </div>
   );

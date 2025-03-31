@@ -50,7 +50,7 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
-								<div>
+								<div style={{padding: "2px;"}}>
 									<GitHubReadMe/>
 								</div>
 							</div>
