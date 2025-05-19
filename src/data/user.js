@@ -38,7 +38,7 @@ const INFO = {
 		{
 			title: "Bear Necessities Market",
 			description:
-				"Contributing to an open-source integrated software solution for Western New England University's campus food pantry, where my team and I are focused on improving the software's testing infrastructure. Our current Sprint Goal is to enhance test coverage for InventorySystem using various testing libraries.",
+				"Led testing infrastructure development for an open-source integrated solution supporting Western New England University's campus food pantry. Spearheaded comprehensive quality assurance implementation for the Inventory subsystem, successfully elevating test coverage from non-existent to over 60% through methodical development and collaborative teamwork.",
 			logo: ["https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg",
 				"https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg",
 				"https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg",
@@ -51,13 +51,15 @@ const INFO = {
 		{
 			title: "INeedHousing",
 			description:
-				"INeedHousing will be full stack web app that aggregates housing information from multiple third-party services to aid interns find housing in their city of employment. A backend MVP is deployed to Azure App Service, and a frontend MVP is soon to completion.",
+				"INeedHousing is a comprehensive full-stack web application that streamlines housing searches for interns and new graduates relocating to their employment cities. " +
+				"The platform leverages sophisticated ETL pipelines to extract, transform, and normalize housing data from multiple third-party services, creating a unified and accessible housing marketplace.",
 				logo: [
 					"https://www.vectorlogo.zone/logos/springio/springio-icon.svg",
 					"https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg",
 					"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg",
 					"https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-icon.svg"
 				],
+				linkText: "View Project",
 				link:"https://github.com/argel6767/i-need-housing"
 		},
 

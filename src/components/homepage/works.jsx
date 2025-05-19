@@ -12,13 +12,21 @@ const Works = () => {
 				icon={faBriefcase}
 				title="Work"
 				body={
+
 					<div className="works-body">
+						<div className="work">
+							<div className="work-title">Walmart</div>
+							<div className="work-subtitle">
+								Software Engineering II (Intern)
+							</div>
+							<div className="work-duration">June 2025 - August 2025</div>
+						</div>
 						<div className="work">
 							<div className="work-title">Blue Tactical</div>
 							<div className="work-subtitle">
 								Business Intelligence Analyst
 							</div>
-							<div className="work-duration">2024 - 2025</div>
+							<div className="work-duration">August 2024 - February 2025</div>
 						</div>
 
 						<div className="work">
@@ -26,7 +34,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Cashier
 							</div>
-							<div className="work-duration">2022 - 2024</div>
+							<div className="work-duration">April 2022 - July 2024</div>
 						</div>
 					</div>
 				}
