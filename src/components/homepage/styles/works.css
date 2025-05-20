@@ -7,7 +7,7 @@
 .work {
 	display: flex;
 	padding-bottom: 40px;
-	width: 400px;
+	width: 420px;
 }
 
 .work-image {
@@ -48,8 +48,22 @@
 		text-align: center;
 	}
 
+	.work-title {
+		font-size: 12px;
+	}
+
 	.works-width {
-		width: 10%;
+		width: 20%;
 		background: #27272a;
+	}
+
+	.work-subtitle {
+		position: absolute;
+		font-size: 11px;
+	}
+
+	.work-duration {
+		font-size: 11px;
+		padding-top: 20px;
 	}
 }
